@@ -1,1 +1,8 @@
-# schaffhausen-casinocom-1765539201
+# schaffhausen-casino.com
+
+
+
+Built on: 2025-12-12 11:33:23
+
+Available languages:
+- de-CH

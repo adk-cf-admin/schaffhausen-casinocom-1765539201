@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://schaffhausen-casino.com/
+Sitemap: https://schaffhausen-casino.com/sitemap.xml

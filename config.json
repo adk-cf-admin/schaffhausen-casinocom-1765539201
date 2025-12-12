@@ -1,0 +1,197 @@
+{
+    "de-CH": {
+        "styles": {
+            "bg": "#FFFFFF",
+            "lang-select-color": "#222829",
+            "bg-light": "#4283BC",
+            "welcome-bonus-bg": "#FFFFFF",
+            "top-games-hover-fg": "#000000",
+            "main-bg": "#F1F1F1",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#2B2F52",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#FBAF1B",
+            "yellow": "#2B2F52",
+            "yellow-button": "#FBAF1B",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#FFFFFF",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#4283BC",
+            "faq-label": "#FFFFFF",
+            "bg-footer": "#4283BC",
+            "copyright": "#e7e7d5",
+            "starColor": "#2B2F52",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Casino Schaffhausen",
+            "title": "Casino Schaffhausen | Spielautomaten, Poker, Roulette, Boni und Events",
+            "description": "Entdecken Sie das Casino Schaffhausen: Slots, Roulette, Blackjack, Pokerturniere, stilvolle GATSBY Bar, attraktive Boni und saisonale Aktionen. Spiel und Lifestyle im Herzen der Schweiz.\n",
+            "canonical": "schaffhausen-casino.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/986",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "schaffhausen-casino.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1009",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1010"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1008",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Casino Schaffhausen Logo"
+        },
+        "nav": {
+            "signUp": "Registrieren",
+            "playNow": "Jetzt spielen"
+        },
+        "hero": {
+            "title": "Casino Schaffhausen – Spannung, Stil und Premium-Entertainment in der Schweiz",
+            "textDesktop": "Exklusives Willkommensangebot von",
+            "textMobile": "Exklusives Willkommensangebot von",
+            "playGame": "Spiel starten",
+            "claimBonus": "Bonus sichern",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/990",
+            "imageSizeModifier": 0,
+            "imageYModifier": -3,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/991",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 1,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Bonus sichern",
+            "title": "Top-Casino",
+            "allCasino": "Alle Casino",
+            "welcomeBonusText": "Willkommensbonus"
+        },
+        "bonusDetails": {
+            "title": "Bonusdetails",
+            "getBonusButtonText": "Bonus erhalten",
+            "maximumAmountText": "Maximalbetrag",
+            "wagerText": "Umsatz",
+            "bonusCodeText": "Bonuscode",
+            "casino": "Casino",
+            "bonuses": "Boni",
+            "rate": "Rate",
+            "freeSpins": "Freispiele",
+            "moreInfo": "Mehr Infos",
+            "get": "Erhalten ",
+            "refresh": "Aktualisieren"
+        },
+        "advantages": {
+            "title": "Vorteile",
+            "advantagesBeforeText": "",
+            "items": [
+                "Grosse Auswahl an Spielautomaten",
+                "Live-Tische für Roulette und Blackjack",
+                "Pokerturniere und Cash Games",
+                "Moderne Multi-Roulette-Terminals",
+                "Elegantes Interieur und stilvolles Ambiente",
+                "GATSBY Bar mit Drinks und Snacks",
+                "Zentrale Lage im Herzen der Stadt"
+            ],
+            "advantagesAfterText": "Das Casino Schaffhausen bietet eine perfekte Kombination aus Spielvielfalt und Komfort. Hier geniessen Sie Poker, Roulette und Slots in einer glamourösen Umgebung mit erstklassigem Service.\n",
+            "knowMore": "Mehr erfahren",
+            "appTitle": "Casino Schaffhausen App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/992",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Casino Schaffhausen App",
+            "mobileGooglePlayImageTitle": "Casino Schaffhausen App",
+            "mobileIosImageTitle": "Casino Schaffhausen App"
+        },
+        "games": {
+            "playNowText": "Jetzt spielen",
+            "title": "Beliebte Spiele",
+            "allGames": "Alle Spiele"
+        },
+        "about": {
+            "history": {
+                "title": "Über Casino Schaffhausen",
+                "description1": "Das Casino Schaffhausen überzeugt mit hohen Jackpots, attraktiven Boni und grossen Gewinnchancen. Ideal für alle, die Spannung und Top-Auszahlungen suchen.\n",
+                "items": [
+                    "Gewinne bis zu 250’000 CHF",
+                    "Bonus für neue Spieler 100 CHF",
+                    "Jackpots an Slots bis 500’000 CHF"
+                ],
+                "description2": "Das Casino Schaffhausen ist ein modernes Spielhaus mit elegantem Interieur und gemütlicher Atmosphäre. Gäste erwartet eine grosse Auswahl an Spielautomaten und klassischen Tischspielen. Pokerfans profitieren von regelmässigen Turnieren und Cash Games.\n",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/993",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": " Die zentrale Lage macht den Besuch besonders bequem. Der Eintritt ist kostenlos und der Dresscode bleibt entspannt. Zusätzlich gibt es die stilvolle GATSBY Bar mit Drinks und Snacks. Das Casino bietet hohen Service und Sicherheit für alle Gäste. Ein perfekter Ort für spannende Spiele und entspannte Stunden. Das Casino Schaffhausen vereint Nervenkitzel, Komfort und ein Premium-Ambiente."
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Casino Schaffhausen: Stil, Komfort und Spannung",
+                "description": "<p>\nDas Casino Schaffhausen ist der Ort, an dem Spielvergnügen auf ein Premium-Ambiente trifft. Das elegante Interieur vermittelt Luxus und Behaglichkeit und schafft eine perfekte Umgebung für spannende Stunden.\n\n<\/p>\n<br>\n<p>\nDie Öffnungszeiten sind ideal für Besucher, die auch am Abend oder am Wochenende Unterhaltung suchen. So ist das Casino sowohl für Einheimische als auch für Touristen eine attraktive Adresse.\n\n<\/p>\n<br>\n<p>\nBesondere Aufmerksamkeit verdient die GATSBY Bar, die mit kreativen Cocktails, Snacks und stilvollem Flair überzeugt. Hier finden regelmässig Themenabende und Degustationen statt, die das Spielerlebnis ergänzen.\n<\/p>\n<br>\n<p>\nFür Gäste, die länger bleiben möchten, stehen in der Nähe komfortable Hotels zur Verfügung. Das Casino organisiert zudem Events wie Pokerturniere und Firmenanlässe, die für Abwechslung und Networking sorgen.\n\n<\/p>\n<br>\n<p>\nAttraktive Bonusprogramme und Treueaktionen machen das Spielen noch interessanter. Stammgäste profitieren von exklusiven Vorteilen, während neue Besucher mit Willkommensboni belohnt werden. Das Casino Schaffhausen vereint Stil, Unterhaltung und lukrative Gewinnchancen in einer einzigartigen Location.\n\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nCasino Schaffhausen: Service und Komfort für Gäste<\/h3>\n\n<p>\nIm Casino Schaffhausen spricht das Personal hauptsächlich Deutsch, doch viele Mitarbeitende beherrschen auch Englisch, was die Kommunikation für internationale Gäste erleichtert. Freundlicher und professioneller Service schafft Vertrauen und sorgt für ein angenehmes Ambiente.\n\n<\/p>\n<br>\n<p>\nDie Zahlungsmethoden sind vielfältig: Bargeld, Kreditkarten und gängige elektronische Zahlungen werden akzeptiert. Für Gäste, die Bargeld bevorzugen, stehen Geldautomaten direkt im Casino zur Verfügung, sodass jederzeit unkompliziert Bargeld abgehoben werden kann.\n\n<\/p>\n<br>\n<p>\nEin Währungswechsel ist ebenfalls möglich, was besonders für Touristen von Vorteil ist. Gäste können gängige Währungen problemlos in Schweizer Franken umtauschen und so ohne zusätzliche Umstände spielen. Alle Transaktionen sind sicher und transparent, was für Komfort und Vertrauen sorgt.\n\n<\/p>\n<br>\n<p>\nDas Casino Schaffhausen legt grossen Wert darauf, den Aufenthalt so angenehm wie möglich zu gestalten. Von der Kommunikation bis zu den Zahlungsoptionen – alles ist darauf ausgerichtet, dass sich die Gäste voll und ganz auf Spiel und Unterhaltung konzentrieren können.\n\n<\/p>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBesuchsregeln für das Casino Schaffhausen\n<\/h3>\n\n<p>\nDas Casino Schaffhausen legt grossen Wert auf Komfort und Sicherheit, weshalb bestimmte Regeln gelten. Der Dresscode sorgt für ein gepflegtes Ambiente und verlangt eine ordentliche Kleidung. Der Eintritt ist ausschliesslich volljährigen Gästen mit gültigem Ausweis gestattet. Um eine angenehme Atmosphäre zu gewährleisten, sind aggressives Verhalten, der Konsum verbotener Substanzen sowie Foto- und Videoaufnahmen im Spielbereich untersagt.\n\n<\/p>\n<br>\n<p>\nDie Anreise ist unkompliziert: Das Casino befindet sich im Stadtzentrum, nahe wichtiger Verkehrsknotenpunkte. Für Autofahrer gibt es Parkmöglichkeiten in der Nähe, und auch mit öffentlichen Verkehrsmitteln ist das Casino bequem erreichbar. Alle Regeln dienen dazu, ein sicheres und angenehmes Spielerlebnis zu garantieren.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWichtige Regeln und Bedingungen\n\n<\/h4>\n\n <ul>\n            <li>• \nDresscode: Smart Casual, keine Sportkleidung oder Sandalen.\n<\/li>\n            <li>• \nEintrittsbedingungen: Ab 18 Jahren, mit gültigem Ausweis.\n<\/li>\n            <li>• \nVerbote: Foto- und Videoaufnahmen im Spielbereich, aggressives Verhalten, verbotene Substanzen.\n<\/li>\n            <li>• \nParkplätze und Anreise: Parkplätze in der Nähe, gute ÖV-Anbindung.\n\n<\/li>\n\n        <\/ul><br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nTreueprogramm im Casino Schaffhausen: Vorteile und Boni\n<\/h3>\n\n<p>\nDas Casino Schaffhausen bietet ein exklusives Treueprogramm für Gäste, die regelmässig spielen und zusätzliche Vorteile geniessen möchten. Die Teilnahme eröffnet Zugang zu attraktiven Boni, persönlichen Angeboten und besonderen Privilegien. Die Registrierung ist einfach und dauert nur wenige Minuten. Nach der Aktivierung der Treuekarte sammeln Spieler Punkte bei jedem Einsatz.\n\n<\/p>\n<br>\n<p>\nDas Programm basiert auf einem Level-System, bei dem höhere Stufen mehr Vorteile bringen. Je mehr Sie spielen, desto schneller steigen Sie auf und erhalten zusätzliche Boni. Mitglieder profitieren von Gratisgetränken, Einladungen zu exklusiven Events, Sonderaktionen und erhöhten Jackpots. Zudem gibt es Geldboni und Freispiele für Slot-Fans.\n\n<\/p>\n<br>\n<p>\nAlle Bedingungen sind transparent, und gesammelte Punkte können gegen Geschenke oder Spielguthaben eingelöst werden. So wird jeder Besuch im Casino Schaffhausen noch lohnender und spannender.\n\n<\/p>\n<br>\n\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- Левая колонка -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Registrierungsbedingungen\n<\/h4>\n            <ul>\n            <li>• \nKostenlose Anmeldung beim ersten Besuch\n\n<\/li>\n            <li>• \nVorlage eines gültigen Ausweises erforderlich\n\n<\/li>\n            <li>• \nMindestalter: 18 Jahre\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\"> Level und wie man sie erreicht\n<\/h4>\n        <ul>\n            <li>• \nBasic: Startlevel für alle Mitglieder\n\n<\/li>\n            <li>• \nSilver: ab 1’000 Punkten\n\n<\/li>\n       <li>• \nGold: ab 5’000 Punkten\n\n<\/li>\n            <li>• \nPlatinum: ab 10’000 Punkten\n<\/li>\n  \n        <\/ul><br>\n\n    <\/div>\n\n    <!-- Правая колонка -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\"> Verfügbare Boni\n<\/h4>\n        <ul>\n            <li>• \nWillkommensbonus: 100 CHF auf die erste Einzahlung\n\n<\/li>\n            <li>• \nMonatliche Freispiele: bis zu 50 Free Spins\n\n<\/li>\n       <li>• \nCashback auf Einsätze: bis zu 10% Rückerstattung\n\n<\/li>\n            <li>• \nExklusive Einladungen zu VIP-Turnieren\n\n<\/li>\n              <li>• \nGratisgetränke und Rabatte an der Bar\n\n\n<\/li>\n  \n        <\/ul><br>\n      \n\n    <\/div>\n<\/div>\n<br>\n\n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Softwareanbieter"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Unterhaltung und Gaming im  Casino Schaffhausen",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBoni und Spezialangebote im Casino Schaffhausen\n<\/h3>\n\n<p>\nDas Casino Schaffhausen begeistert seine Gäste nicht nur mit spannenden Spielen, sondern auch mit attraktiven Boni, grossen Gewinnen und saisonalen Events. Regelmässige Aktionen erhöhen die Spannung bei Slots, Tischspielen und Poker. Spezielle Angebote umfassen zusätzliche Guthaben, Freispiele und erhöhte Jackpots, die das Spielerlebnis noch aufregender machen.\n\n<\/p>\n<br>\n<p>\nDarüber hinaus organisiert das Casino Themenabende und Feiertagsaktionen, bei denen exklusive Preise winken. Saisonale Events wie Neujahrsverlosungen oder Sommeraktionen locken mit einzigartigen Geschenken und Geldboni. Für Unterhaltung sorgen Showprogramme und kulinarische Highlights in der GATSBY Bar, die für festliche Stimmung sorgen.\n\n<\/p>\n<br>\n<p>\nDas Casino Schaffhausen setzt auf transparente Bedingungen und grosszügige Angebote. Jeder Bonus ist leicht aktivierbar, und die Gewinne erreichen beeindruckende Summen – ein Besuch lohnt sich in jeder Hinsicht.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWichtige Boni und Angebote\n\n<\/h4>\n\n <ul>\n            <li>• \nWillkommensbonus: 100 CHF auf die erste Einzahlung für neue Spieler\n<\/li>\n            <li>• \nFreispiele: bis zu 50 Free Spins auf beliebten Slots\n<\/li>\n            <li>• \nCashback: Rückerstattung bis zu 10% der verlorenen Einsätze\n<\/li>\n            <li>• \nJackpots: progressive Gewinne bis zu 500’000 CHF an Spielautomaten\n<\/li>\n\t    <li>• \nSaisonaktionen: Neujahrsverlosungen mit Preisen bis zu 5’000 CHF\n<\/li>\n\t    <li>• \nThemenabende: Cocktailpartys und Showprogramme mit Geschenken\n<\/li>\n\t    <li>• \nPokerturniere: spezielle Buy-ins mit garantierten Preisgeldern\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBeliebte Spiele im Casino Schaffhausen\n<\/h3>\n\n<p>\nDas Casino Schaffhausen bietet eine grosse Auswahl an Spielen, die sowohl klassische Fans als auch moderne Spieler begeistern. Spielautomaten mit progressiven Jackpots sind das Herzstück des Angebots und locken mit hohen Gewinnchancen. Tischspiele wie Roulette und Blackjack sorgen für authentisches Casino-Feeling und spannende Momente.\n\n<\/p>\n<br>\n<p>\nPoker nimmt einen besonderen Platz ein: Regelmässige Turniere und Cash Games ziehen Anfänger und Profis gleichermassen an. Für Gäste, die automatisierte Lösungen bevorzugen, stehen Multi-Roulette-Terminals bereit, die ein komfortables Spielerlebnis bieten.\n\n<\/p>\n<br>\n<p>\nJedes Spiel im Casino Schaffhausen überzeugt durch klare Regeln und erstklassigen Service, was für Sicherheit und Spass sorgt.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nKurze Beschreibung der beliebtesten Spiele\n\n<\/h4>\n\n <ul>\n            <li>• \nSlots: moderne Automaten mit progressiven Jackpots und Bonusrunden\n<\/li>\n            <li>• \nRoulette: klassische europäische und amerikanische Varianten für Nervenkitzel\n<\/li>\n            <li>• \nRoulette: klassische europäische und amerikanische Varianten für Nervenkitzel\n<\/li>\n            <li>• \nPoker: Texas Hold’em und Turniere mit garantierten Preisgeldern\n<\/li>\n\t    <li>• \nMulti Roulette: automatisierte Roulette-Version mit benutzerfreundlicher Oberfläche\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimale und maximale Einsätze im Casino Schaffhausen\n<\/h3>\n\n<p> \nDas Casino Schaffhausen bietet flexible Einsatzlimits für Spieler mit unterschiedlichem Budget. Minimale Einsätze sind ideal für Einsteiger, während maximale Einsätze grosse Gewinnchancen eröffnen. Die Spiele umfassen Slots, Roulette, Blackjack und Poker – jedes mit klar definierten Limits für ein transparentes Spielerlebnis.\n\n<\/p><br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#FBAF1B; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Spiel<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimaler Einsatz<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximaler Einsatz<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0,10 CHF <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">100 CHF<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">2,50 CHF<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">500 CHF<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5 CHF<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">1’000 CHF<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Poker (Cash Games)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">2 CHF (Blind)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> Kein Limit<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Multi Roulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">1 CHF<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">100 CHF<\/td>\n                <\/tr>\n \n            <\/tbody>\n        <\/table><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEvents und Unterhaltung im Casino Schaffhausen\n<\/h3>\n\n<p>\nDas Casino Schaffhausen ist nicht nur ein Ort für spannende Spiele, sondern auch für exklusive Events und Unterhaltung. Regelmässig finden Themenabende, Showprogramme und besondere Veranstaltungen statt, die für glamouröse Stimmung sorgen. Gäste geniessen Live-Musik, Künstlerauftritte und Cocktailpartys in der stilvollen GATSBY Bar.\n\n<\/p>\n<br>\n<p>\nBesonders beliebt sind die regelmässigen Highlights: Pokerturniere, Aktionen für Roulette- und Slot-Fans sowie spezielle Nächte mit erhöhten Jackpots. Saisonale Events wie Neujahrspartys, Sommeraktionen und Festtagsverlosungen locken mit attraktiven Preisen und einzigartiger Atmosphäre.\n\n<\/p>\n<br>\n<p>\nFür Nachtschwärmer bietet das Casino Schaffhausen Abendshows und Clubfeeling, bei dem sich Spannung und Tanz perfekt verbinden. Diese Events machen das Casino zu einer Top-Adresse für Spiel und Lifestyle.\n\n<\/p>\n<br>\n<p>\nJede Veranstaltung überzeugt durch erstklassigen Service und ein Ambiente, das jeden Besuch unvergesslich macht.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAlle Events und Unterhaltung\n\n<\/h4>\n\n <ul>\n            <li>• \nPokerturniere: regelmässige Events mit garantierten Preisgeldern\n<\/li>\n            <li>• \nThemenabende: Cocktailpartys, Degustationen und Showprogramme\n<\/li>\n            <li>• \nSaisonaktionen: Neujahrsverlosungen, Sommerpromos mit Geschenken\n<\/li>\n            <li>• \nLive-Musik: Künstlerauftritte und DJ-Sets in der GATSBY Bar\n<\/li>\n\t    <li>• \nNachtshows: Club-Atmosphäre mit Tanz und Drinks\n<\/li>\n\t    <li>• \nVIP-Events: exklusive Partys für Stammgäste\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBars, Restaurants und Erholung im Casino Schaffhausen\n<\/h3>\n\n<p>\nDas Casino Schaffhausen ist nicht nur ein Ort für spannende Spiele, sondern auch für stilvolle Entspannung. Im Inneren befindet sich die bekannte GATSBY Bar, die als Aushängeschild des Casinos gilt. Hier geniessen Gäste kreative Cocktails, feine Snacks und ein elegantes Ambiente. Die Bar ist regelmässig Schauplatz von Themenabenden und Degustationen – perfekt für Unterhaltung und Networking.\n\n<\/p>\n<br>\n<p>\nDer Restaurantbereich bietet Gerichte der europäischen Küche, zubereitet aus frischen Zutaten. Ideal für alle, die Spiel und kulinarischen Genuss verbinden möchten. Am Abend herrscht eine gemütliche Atmosphäre, begleitet von erstklassigem Service.\n\n<\/p>\n<br>\n<p>\nFür Gäste, die länger bleiben möchten, gibt es komfortable Hotels in unmittelbarer Nähe. Diese bieten hochwertige Zimmer und spezielle Pakete für Spieler, die Unterkunft und exklusive Vorteile kombinieren.\n\n<\/p>\n<br>\n<p>\nDas Casino Schaffhausen setzt auf ein ganzheitliches Erlebnis: Spiele, stilvolle Bars, Gastronomie und erstklassige Übernachtungsmöglichkeiten machen jeden Besuch unvergesslich.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nErholungsorte und Beschreibung\n\n<\/h4>\n\n <ul>\n            <li>• \nGATSBY Bar: stilvolle Bar mit Cocktails, Snacks und Themenabenden\n<\/li>\n            <li>• \nRestaurantbereich: europäische Küche, gemütliches Ambiente und Premium-Service\n<\/li>\n            <li>• \nHotels in der Nähe: komfortable Zimmer, Spielerpakete und Top-Service\n\n<\/li>\n\n        <\/ul><br>\n\n"
+            }
+        },
+        "faq": {
+            "title": "FAQ",
+            "items": [
+                {
+                    "title": "Hat das Casino rund um die Uhr geöffnet?",
+                    "answer": "Nein, das Casino ist täglich ab 12:00 Uhr bis spät in die Nacht geöffnet (bis 02:00 oder 04:00 am Wochenende).\n"
+                },
+                {
+                    "title": "Welche Zahlungsmethoden werden akzeptiert?",
+                    "answer": "Barzahlung, Kreditkarten und gängige elektronische Zahlungen sind möglich.\n"
+                },
+                {
+                    "title": "Welche Ausweise sind erforderlich?",
+                    "answer": "Ein gültiger Reisepass oder Personalausweis ist notwendig.\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1011",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Casino Schaffhausen"
+        }
+    },
+    "langs": [
+        {
+            "code": "de-CH",
+            "name": "Немецкий",
+            "isDefault": true
+        }
+    ]
+}
